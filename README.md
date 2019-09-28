@@ -1,3 +1,3 @@
 # Rdata
 
-Please download the zip file.
+Please download the zip files you want.
